@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\mn\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\mn\Desktop\SlideBarDemo\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_def9f564a6d40e35f94fcaeceacf646985bd9d29.jar" />
+    </item>
+    <item
+        jar="C:\Users\mn\Desktop\SlideBarDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cfca2c405f48ac2a5ee31de1fadaa10aaf39992f">
+        <dex dex="C:\Users\mn\Desktop\SlideBarDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_63f1a056133cdf34a060b467d0303944ff0c88ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\mn\Desktop\SlideBarDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d41b1f344a61febab2d6ec90fc48eb3c3c40d70f">
+        <dex dex="C:\Users\mn\Desktop\SlideBarDemo\app\build\intermediates\pre-dexed\debug\instant-run_c0db4d171cf09710086ad6353fcd44377dce2570.jar" />
+    </item>
+
+</items>
